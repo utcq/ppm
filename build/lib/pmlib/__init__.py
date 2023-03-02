@@ -1,1 +1,0 @@
-from pmlib.ppm import *
