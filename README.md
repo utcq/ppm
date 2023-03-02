@@ -48,7 +48,7 @@
 
 
 ```bash
-pip install ppm
+pip install pmppm
 ```
 
 
