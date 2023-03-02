@@ -2,3 +2,4 @@ MANIFEST.in
 PPM.egg-info/
 build/
 dist/
+.gitignore
